@@ -1,2 +1,2 @@
-"hardlist": 5454 words
-"easylist": 500 words
+"hardlist": 4256 words
+"easylist": 403 words
